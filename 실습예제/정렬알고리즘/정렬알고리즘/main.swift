@@ -130,7 +130,7 @@ func quickSort<T: Comparable>(_ array: [T]) -> [T] {
     return result
 }
 
-let array = [3, 2, 5, 1, 4]
+let array = [3, 2, 5, 1, 4]z
 
 print(quickSort(array)) // [1, 2, 3, 4, 5]
 
